@@ -1,4 +1,4 @@
-function Styles(options){
+function styles(options){
     let object = document.querySelectorAll('.apply-styles');
 
     // Shadow
@@ -88,4 +88,4 @@ function Styles(options){
 }
 
 
-module.exports.Styles = Styles;
+module.exports.styles = styles;
