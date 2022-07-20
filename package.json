@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "mini-bootstrap",
+  "version": "1.0.3",
+  "description": "Mini-bootstrap to add stylings to your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadeedpv/Mini-bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "tailwind"
+  ],
+  "author": "Sadeed pv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sadeedpv/Mini-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Sadeedpv/Mini-bootstrap#readme"
+}
