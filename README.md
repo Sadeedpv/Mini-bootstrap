@@ -1,5 +1,5 @@
 # MINI-BOOTSTRAP 🚀
-### This is my very first basic npm package. Use it to style your website. It contains HTML, CSS and JavaScript-based design templates for some interface components.
+### <br /> This is my very first basic npm package. Use it to style your website. It contains HTML, CSS and JavaScript-based design templates for some interface components. <br />
 # Installation 
 ```bash
   npm install mini-bootstrap
